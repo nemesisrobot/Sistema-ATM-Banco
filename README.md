@@ -9,5 +9,5 @@ Sistema ATM de banco
   <LI>SAQUE</LI>
   <LI>DEPOSITO</LI>
   <LI>SALDO</LI>
-  <LI>TRNASFERENCIA</LI>
+  <LI>TRANSFERENCIA</LI>
 </OL>
